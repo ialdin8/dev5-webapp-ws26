@@ -1,4 +1,5 @@
 {
   "editor.formatOnSave": true,
-  "explorer.excludeGitIgnore": true
+  "explorer.excludeGitIgnore": true,
+  "dotnet.defaultSolution": "Deo.WebApp.sln"
 }
